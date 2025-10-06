@@ -1,4 +1,4 @@
-# odin-recipes sn
+# odin-recipes
 This repository contains my solution to The Odin Project's first project: Recipes
 
 Recipes is a project in The Odin Project's pathway to frontend development (first of many) and it tests your skills in HTML
@@ -10,4 +10,3 @@ Skills I will have demonstrated once I complete this project:
   3. Basic HTML structure and tags
 
 
-Skills I demonstrated (do this after project is done):

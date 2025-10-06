@@ -1,6 +1,6 @@
-# odin-recipes
+# odin-recipes sn
 This repository contains my solution to The Odin Project's first project: Recipes
-f
+
 Recipes is a project in The Odin Project's pathway to frontend development (first of many) and it tests your skills in HTML
 by building a website that has a few recipes and links to them on other pages.
 
